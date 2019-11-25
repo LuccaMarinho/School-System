@@ -139,7 +139,7 @@
 				
 
 				<a href="change_data.php" class="btn success">Alterar Dados</a>	
-				<a href="password_reset.php" class="btn semi-danger">Resetar Senha</a>
+				<a href="reset_password.php" class="btn semi-danger">Resetar Senha</a>
 				<a href="logout.php" class="btn danger">Logout</a>
 
 			</form>

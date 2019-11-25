@@ -57,7 +57,7 @@
 		else
 			$address = (trim($_POST["address"]));
 
-		if(empty(trim($_POST["phone"])) || (strlen(trim($_POST["phone"]) < 10)))
+		if(empty(trim($_POST["phone"])) || (strlen($_POST["phone"]) < 10))
 			$phone_err = "Insira um número de telefone válido.";
 
 		else

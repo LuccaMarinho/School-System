@@ -1,7 +1,7 @@
 # School-System
 
 BAIXE A VERSÃO MAIS ATUAL DO XAMPP.
-LINK : https://www.apachefriends.org/download.html[
+LINK : https://www.apachefriends.org/download.html
 
 FEITO ISSO, INSTALE O SOFTWARE E AO ABRI-LO CLIQUE EM START EM "APACHE" E "MySQL"
 ACESSE http://localhost/phpmyadmin/

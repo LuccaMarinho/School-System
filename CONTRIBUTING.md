@@ -1,1 +1,1 @@
-So far I did by myself.
+So far, did all by myself.
